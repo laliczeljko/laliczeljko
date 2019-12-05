@@ -51,10 +51,7 @@
   #clients {
     background: url("../img/sky.jpg") no-repeat center center/cover;
     background-attachment: fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+    background-size: auto;
   }
 
   #clients .items i {
