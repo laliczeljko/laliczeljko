@@ -50,8 +50,8 @@
 
   #clients {
     background: url("../img/people2.jpg") no-repeat center center/cover;
-    background-attachment: fixed;
-    background-size: auto;
+    /* background-attachment: fixed; */
+    /* background-size: auto; */
   }
 
   #clients .items i {
