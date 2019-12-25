@@ -68,7 +68,7 @@ p {
 }
 
 .py-1 {
-  padding: 1.5rem 0;
+  padding: 0.5rem 0;
 }
 .py-2 {
   padding: 2rem 0;
@@ -252,7 +252,7 @@ p {
 
 #contact .contact-form textarea {
   width: 100%;
-  padding: 10px;
+  padding: 20px;
 }
 
 #contact .contact-form input {
@@ -260,5 +260,13 @@ p {
 }
 
 #contact .contact-form .btn {
+  width: 97%;
+}
+
+#name,
+#email,
+#phone,
+#message {
   width: 100%;
+  border-radius: 5px;
 }
