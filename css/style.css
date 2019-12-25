@@ -168,6 +168,13 @@ p {
 }
 
 /* Section: What We Do */
+#what {
+  background: url("../img/code.jpg") no-repeat center center/cover;
+  background-attachment: fixed;
+}
+#what {
+  padding: 2rem;
+}
 #what .items {
   display: flex;
   padding: 1rem;
