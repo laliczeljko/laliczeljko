@@ -94,6 +94,7 @@ p {
   padding: 0.5rem 2rem;
   border: none;
   border-radius: 5px;
+  z-index: 1;
 }
 
 .btn:hover {
@@ -276,4 +277,12 @@ p {
 #message {
   width: 100%;
   border-radius: 5px;
+}
+
+.circle {
+  width: 20px;
+  height: 20px;
+  border: 1px solid #fff;
+  position: absolute;
+  border-radius: 15px;
 }
